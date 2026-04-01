@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26395240/README.md)
-[README.md](https://github.com/user-attachments/files/26395240/README.md)
 # LeaseLens 🔍🚗
 
 LeaseLens is a modern, premium single-page web application built to compare the real costs of leasing vs. buying a vehicle in Canada. It acts as a comprehensive **Total Cost of Ownership (TCO)** calculator, going beyond standard monthly payments to factor in fuel savings, insurance, maintenance, and the equity of your vehicle at the end of its term.
